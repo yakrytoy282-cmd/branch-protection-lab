@@ -3,3 +3,4 @@ function greet(name) {
 }
 // правка через pull request
 function farewell(name) { return `До встречи, ${name}!`; }
+// исправление опечатки
